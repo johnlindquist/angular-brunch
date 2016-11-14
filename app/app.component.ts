@@ -7,5 +7,5 @@ import { Component } from '@angular/core'
   `
 })
 export class AppComponent {
-  message = `Hello, geez`
+  message = `Hello, Angular`
 }
